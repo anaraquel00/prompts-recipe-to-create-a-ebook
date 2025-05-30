@@ -35,7 +35,7 @@ Neste e-book, exploramos:
 
 ## 🚀 Como Utilizar
 
-1. **Leia o e-book:** disponível no arquivo [`Códigos Fantasmas.pdf`](./Códigos%20Fantasmas.pdf).  
+1. **Leia o e-book:** disponível no arquivo [`Códigos Fantasmas.pdf`](/output/Códigos%20Fantasmas.pdf).  
 2. **Explore a trilha sonora:** acesse a playlist inspiradora [aqui](https://suno.com/playlist/20d7f166-9a22-4c9f-9c49-bdcc0f11640f).  
 3. **Compartilhe suas impressões** criando issues ou pull requests para discussões criativas.
 
