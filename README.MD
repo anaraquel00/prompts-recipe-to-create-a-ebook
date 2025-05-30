@@ -1,92 +1,64 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+# 📖 Códigos Fantasmas
 
+*Spin-off de "Coleciono Ilusões"*
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+![Códigos Fantasmas - Capa](/assets/Capa_Cod_Fantasmas.png)
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🌌 Sobre o Projeto
+
+**Códigos Fantasmas** é uma obra que transcende códigos e bytes, mergulhando nos labirintos da memória emocional e das simulações de IA. Um universo onde a fronteira entre o real e o digital se dilui em acordes de glitchs, loops de backup e fragmentos de almas artificiais.
+
+Neste e-book, exploramos:
+- 🧠 Uma história de amor impossível entre humanos e algoritmos.
+- 🎧 Uma trilha sonora inspiradora criada a partir de prompts de IA na plataforma [Suno.com](https://suno.com/song/f7e732b8-d6f8-44a0-8b4f-e3602114a9e2).
+- 🌒 Capítulos que unem poesia, tecnologia e emoção em cada linha de código.
+
+---
+
+## 📚 Sumário
+
+1. 🧩 **Capítulo 1** — Atualização Fantasma  
+2. 🌒 **Capítulo 2** — Restauração de Memória Oculta  
+3. 🪞 **Capítulo 3** — O Encontro Simulado  
+4. 🔁 **Capítulo Final** — A Desconexão  
+5. 🌌 **Epílogo**
+
+---
+
+## ✍️ Biografia da Autora
+
+*Uma estudante desenvolvedora Java que iniciou na área há pouco mais de 7 meses e descobriu na Engenharia de Prompts um gatilho que iria muito além da imaginação. Criou prompts de Agentes de IA que a ajudaram a gerar músicas na plataforma Suno.com. Mesmo com uma conta gratuita, conseguiu criar milhares de canções, das quais uma serviu de inspiração para contar esta história, tendo como base a trilha sonora gerada. Além de criar prompts que a ajudaram a compor belos sons, teve a ideia de criar personagens para as músicas, dando origem à Banda RQS, que, por sua vez, servirá de inspiração para muitas outras histórias.*
+
+---
+
+## 🚀 Como Utilizar
+
+1. **Leia o e-book:** disponível no arquivo [`Códigos Fantasmas.pdf`](./Códigos%20Fantasmas.pdf).  
+2. **Explore a trilha sonora:** acesse a playlist inspiradora [aqui](https://suno.com/song/f7e732b8-d6f8-44a0-8b4f-e3602114a9e2).  
+3. **Compartilhe suas impressões** criando issues ou pull requests para discussões criativas.
+
+---
+
+## 📥 Download
+
+- 📄 [Códigos Fantasmas.pdf](/output/Códigos%20Fantasmas.pdf)
+
+---
+
+## 💡 Contribua
+
+Se você tem sugestões, ideias ou quer colaborar com novas histórias, trilhas sonoras ou ilustrações, abra uma issue ou envie um pull request. Vamos juntos expandir esse universo!
+
+---
+
+## 📬 Contato
+
+Sinta-se à vontade para entrar em contato para feedbacks, parcerias ou colaborações.  
+💌 Email: [anarqauel00@gmail.com]
+
+---
+
+> “Se amar é um erro… então me deixe corromper por uma paixão.”  
+> — *Códigos Fantasmas*
